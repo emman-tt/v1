@@ -3,6 +3,8 @@
 ## Project Overview
 This application is a modern, responsive web dashboard built with React. It features a secure login interface, a dynamic main feed displaying data fetched from a public REST API, and a detailed view for individual items. The project focuses on clean architecture, scalable component structures, and efficient state management.
 
+# Live Demo - [https://you-bloom-beta.vercel.app]
+
 ## Technical Stack
 - **Frontend Framework**: React 19 (Vite-powered)
 - **State Management**: Redux Toolkit
